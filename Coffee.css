@@ -12,6 +12,9 @@
     background-color: #C99E71;
     color: #14110E;
 }
+html,body{
+    overflow-x: hidden;
+}
 body{
     background: #14110E;
     overflow-x: hidden;
